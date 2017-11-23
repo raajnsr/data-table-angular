@@ -1,0 +1,587 @@
+[
+  {
+    "id":"1",
+    "name": "Wing",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-01-09T14:48:34-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "231"
+  },
+  {
+    "id":"2",
+    "name": "Whitney",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2017-01-23T20:09:52-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "321"
+  },
+  {
+    "id":"3",
+    "name": "Oliver",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-11-19T19:11:33-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "4212"
+  },
+  {
+    "id":"4",
+    "name": "Whitney",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2015-11-02T07:59:34-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "2311"
+  },
+  {
+    "id":"5",
+    "name": "Maggy",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2017-02-25T15:42:17-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "234"
+  },
+  {
+    "id":"6",
+    "name": "Unity",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-03-07T03:47:55-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "345"
+  },
+  {
+    "id":"7",
+    "name": "Whitney",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2017-02-27T20:03:50-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "678"
+  },
+  {
+    "id":"8",
+    "name": "Medge",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-03-02T03:59:17-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "200"
+  },
+  {
+    "id":"9",
+    "name": "Whitney",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-11-07T20:48:43-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "322"
+  },
+  {
+    "id":"10",
+    "name": "Ainsley",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-02-11T22:14:36-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "900"
+  },
+  {
+    "id":"11",
+    "name": "Candice",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2015-04-23T12:29:39-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "800"
+  },
+  {
+    "id":"12",
+    "name": "Whitney",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-08-18T12:06:56-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "800"
+  },
+  {
+    "id":"13",
+    "name": "Diana",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-12-24T00:53:04-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "500"
+  },
+  {
+    "id":"14",
+    "name": "Tyrone",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2015-03-31T11:45:57-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "600"
+  },
+  {
+    "id":"15",
+    "name": "Brennan",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-09-07T16:12:31-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "500"
+  },
+  {
+    "id":"16",
+    "name": "Lillith",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-08-01T12:45:06-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "1000"
+  },
+  {
+    "id":"17",
+    "name": "Wayne",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-02-23T10:20:18-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "500"
+  },
+  {
+    "id":"18",
+    "name": "Vielka",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-07-18T19:26:59-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "400"
+  },
+  {
+    "id":"19",
+    "name": "Armando",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-12-07T17:31:26-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "900"
+  },
+  {
+    "id":"20",
+    "name": "Justin",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-09-23T20:17:41-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "600"
+  },
+  {
+    "id":"21",
+    "name": "Zorita",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2015-06-14T12:12:00-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "1000"
+  },
+  {
+    "id":"22",
+    "name": "Mariam",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-10-14T18:52:48-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "322"
+  },
+  {
+    "id":"23",
+    "name": "Malik",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-09-20T18:06:55-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "233"
+  },
+  {
+    "id":"24",
+    "name": "Whitney",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-12-29T09:49:13-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "322"
+  },
+  {
+    "id":"25",
+    "name": "Hilel",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-07-09T12:03:31-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "4565"
+  },
+  {
+    "id":"26",
+    "name": "Alea",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2015-03-21T02:28:40-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "6000"
+  },
+  {
+    "id":"27",
+    "name": "Nash",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-10-21T10:38:41-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "454"
+  },
+  {
+    "id":"28",
+    "name": "Brennan",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-06-06T22:37:33-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "900"
+  },
+  {
+    "id":"29",
+    "name": "Whitney",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-09-07T18:40:26-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "300"
+  },
+  {
+    "id":"30",
+    "name": "Farrah",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-11-30T23:52:41-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "300"
+  },
+  {
+    "id":"31",
+    "name": "August",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-11-21T05:57:31-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "200"
+  },
+  {
+    "id":"32",
+    "name": "Reese",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-07-01T14:09:53-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "121"
+  },
+  {
+    "id":"33",
+    "name": "Jael",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-02-18T05:11:43-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "100"
+  },
+  {
+    "id":"34",
+    "name": "Gage",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-07-31T17:51:58-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "100"
+  },
+  {
+    "id":"35",
+    "name": "Whitney",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-01-23T17:01:09-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "234"
+  },
+  {
+    "id":"36",
+    "name": "Gage",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-06-24T08:52:43-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "345"
+  },
+  {
+    "id":"37",
+    "name": "Ryder",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2015-08-02T00:01:28-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "234"
+  },
+  {
+    "id":"38",
+    "name": "Lyle",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2015-11-15T05:40:15-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "450"
+  },
+  {
+    "id":"39",
+    "name": "Carly",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2016-01-11T16:09:51-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "540"
+  },
+  {
+    "id":"40",
+    "name": "Hector",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-12-20T18:58:28-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "450"
+  },
+  {
+    "id":"41",
+    "name": "Whitney",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-03-06T03:19:08-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "560"
+  },
+  {
+    "id":"42",
+    "name": "Gage",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2015-10-04T23:37:46-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "700"
+  },
+  {
+    "id":"43",
+    "name": "Ila",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-05-10T09:00:25-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "900"
+  },
+  {
+    "id":"44",
+    "name": "Leila",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-11-13T02:20:11-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "500"
+  },
+  {
+    "id":"45",
+    "name": "Jael",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-07-13T14:10:16-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "400"
+  },
+  {
+    "id":"46",
+    "name": "Whitney",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-06-17T23:31:55-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "500"
+  },
+  {
+    "id":"47",
+    "name": "Gage",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-11-02T22:00:54-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "400"
+  },
+  {
+    "id":"48",
+    "name": "Wallace",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-01-25T09:13:43-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "400"
+  },
+  {
+    "id":"49",
+    "name": "Jael",
+    "game": "C",
+    "diffLevel": "Easy",
+    "strDate": "2016-10-10T13:54:26-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "200"
+  },
+  {
+    "id":"50",
+    "name": "Whitney",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2014-01-23T07:56:18-08:00",
+    "endDate": "2015-02-09T14:48:54-08:00",
+    "score": "1234"
+  },
+  {
+    "id":"51",
+    "name": "Gage",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2015-07-09T20:16:24-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "2345"
+  },
+  {
+    "id":"52",
+    "name": "Jael",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2015-10-15T05:15:47-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "345"
+  },
+  {
+    "id":"53",
+    "name": "Jolie",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-04-30T20:48:31-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "560"
+  },
+  {
+    "id":"54",
+    "name": "Jael",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2017-01-23T06:17:22-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "768"
+  },
+  {
+    "id":"55",
+    "name": "Suki",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2016-04-20T07:03:02-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "700"
+  },
+  {
+    "id":"56",
+    "name": "Gage",
+    "game": "D",
+    "diffLevel": "Easy",
+    "strDate": "2015-08-27T11:25:51-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "900"
+  },
+  {
+    "id":"57",
+    "name": "Tashya",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-05-31T10:57:18-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "1000"
+  },
+  {
+    "id":"58",
+    "name": "Whitney",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2015-03-17T08:21:56-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "2000"
+  },
+  {
+    "id":"59",
+    "name": "Jael",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-08-31T10:30:49-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "3000"
+  },
+  {
+    "id":"60",
+    "name": "Gage",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2017-02-26T03:44:58-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "245"
+  },
+  {
+    "id":"61",
+    "name": "Arden",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2017-01-29T12:42:50-08:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "100"
+  },
+  {
+    "id":"62",
+    "name": "Harper",
+    "game": "A",
+    "diffLevel": "Easy",
+    "strDate": "2016-04-07T12:53:49-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "200"
+  },
+  {
+    "id":"63",
+    "name": "Burke",
+    "game": "B",
+    "diffLevel": "Easy",
+    "strDate": "2015-06-01T22:29:44-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "100"
+  },
+  {
+    "id":"64",
+    "name": "Jael",
+    "game": "B",
+    "diffLevel": "Hard",
+    "strDate": "2015-05-08T03:28:35-07:00",
+    "endDate": "2016-07-09T14:48:54-08:00",
+    "score": "800"
+  },
+  {
+    "id":"65",
+    "name": "Gage",
+    "game": "B",
+    "diffLevel": "Medium",
+    "strDate": "2016-03-29T01:03:51-07:00",
+    "endDate": "2017-02-09T14:48:54-08:00",
+    "score": "1345"
+  }
+]
